@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there 👋 I'm Alessandro Ruzza
 
+- 🌱 I’m currently enrolled in the bachelor's of Engineering of Computing Systems @ <a href="https://polimi.it" target="_blank"> Politecnico di Milano </a>
+- 📫 How to reach me: alessandroruzza22@gmail.com
+- 😄 Pronouns: he/him
 <!--
 **AlessandroRuzza/AlessandroRuzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 **Languages and Tools:** 🛠️<br>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="40" height="40"/></a>
+  <a href="https://json5.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/json-5.svg" alt="JSON5" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  
+</p>
+<br><be>
+
+
+<p align="center"> 
+  Thank you for stopping by!<br>
+  <img src="https://profile-counter.glitch.me/AlessandroRuzza/count.svg" />
+</p>
