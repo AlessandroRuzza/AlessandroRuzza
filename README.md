@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alessandro Ruzza
 
-- 🌱 I’m currently enrolled in the bachelor's of Engineering of Computing Systems @ <a href="https://polimi.it" target="_blank"> Politecnico di Milano </a>
+- 🌱 I’m currently enrolled in the EUMaster4HPC programme @ <a href="https://polimi.it" target="_blank"> Politecnico di Milano </a> & <a href="https://usi.ch" target="_blank"> USI </a>
 - 📫 How to reach me: alessandroruzza22@gmail.com
 - 😄 Pronouns: he/him
 <!--
