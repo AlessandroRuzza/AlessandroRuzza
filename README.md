@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://www.fauna.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373592/fauna.svg" alt="FaunaDB" width="40" height="40"/></a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://new.abb.com/products/robotics/de/robotstudio" target="_blank"> <img src="https://www.svgrepo.com/show/192642/industrial-robot-factory.svg" alt="Robotstudio" width"40" height="40"/> </a>
+  <a href="https://new.abb.com/products/robotics/en/robotstudio" target="_blank"> <img src="https://www.svgrepo.com/show/192642/industrial-robot-factory.svg" alt="Robotstudio" width"40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   
 </p>
