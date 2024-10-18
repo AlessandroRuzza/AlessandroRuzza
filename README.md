@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://banner2.cleanpng.com/20181212/eje/kisspng-database-design-sql-vector-graphics-computer-icons-5c116fbfeba989.7849238615446465919653.jpg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.fauna.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373592/fauna.svg" alt="FaunaDB" width="40" height="40"/></a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://new.abb.com/products/robotics/de/robotstudio" target="_blank"> <img src= "https://camo.githubusercontent.com/b59eabe11a647f58d186be8c69f8e4a1f0e2a922ae551a0b5b89e4097d9dfe1e/68747470733a2f2f73746f72652d696d616765732e732d6d6963726f736f66742e636f6d2f696d6167652f617070732e33363931382e31333536353833363731303038323532342e32353361636538642d353233622d343861302d613366332d6532396339643339396530662e65336236663433372d333462652d346462332d383631392d373365323863373161386434" alt="Robotstudio" width"40" height="40"/> </a>
+  <a href="https://new.abb.com/products/robotics/de/robotstudio" target="_blank"> <img src="" alt="Robotstudio" width"40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   
 </p>
