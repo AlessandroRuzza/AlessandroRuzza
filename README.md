@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://banner2.cleanpng.com/20181212/eje/kisspng-database-design-sql-vector-graphics-computer-icons-5c116fbfeba989.7849238615446465919653.jpg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.fauna.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373592/fauna.svg" alt="FaunaDB" width="40" height="40"/></a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>
